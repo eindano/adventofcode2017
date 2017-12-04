@@ -1,4 +1,5 @@
 #/bin/bash
+
 rm -f out_uniq.txt out.txt uniq2.txt sortline2.txt
 while read line; do    
   # part one   
