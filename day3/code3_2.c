@@ -3,6 +3,8 @@
 #include <math.h>
 #include <stdlib.h>
 
+// Warning really ugly code
+
 // 265149 => 266330
 
 int nums[100][100];
