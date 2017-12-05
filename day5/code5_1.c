@@ -11,7 +11,7 @@ void main() {
   
   while(pos < listSize) {
     int offset = list[pos];
-    list[pos] += 1;
+    list[pos]++;
     pos += offset;
     jumps++;
   }
